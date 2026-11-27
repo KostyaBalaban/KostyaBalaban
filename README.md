@@ -11,8 +11,7 @@ Computer Science graduate (2026) focused on front-end development. I build clean
 - **Frontend:** React, Zustand, Tailwind CSS
 - **Backend:** Node.js, Express, REST APIs, WebSockets (Socket.io)
 - **Databases:** PostgreSQL, MySQL, MongoDB
-- **Tools:** Git, GitHub, VS Code, AI-assisted development (Claude Code)
-
+- **Tools:** Git, GitHub, VS Code, AI-assisted development
 ## Featured projects
 
 **[NightWire](https://github.com/KostyaBalaban/REPO-NAME)** — real-time messenger (bachelor's thesis, 2026)<br>
