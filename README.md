@@ -1,32 +1,30 @@
 # Kostiantyn Balaban
 
-**Junior Full-Stack Developer** · React · Node.js · Socket.io · MongoDB<br>
+**Junior Front-End Developer** · React · TypeScript · JavaScript<br>
 Based in Parma, Italy (CET) · open to remote and hybrid roles
 
-I build real-time web applications. My bachelor's thesis, **NightWire**, is a full-stack messenger with end-to-end encryption, group chats with roles and an admin panel.
+Computer Science graduate (2026) focused on front-end development. I build clean, user-friendly web interfaces with React and I'm comfortable across the stack, from the UI to the server and the database.
 
 ## Tech stack
 
-- **Frontend:** JavaScript (ES6+), React, Zustand, Tailwind CSS, HTML, CSS
-- **Backend:** Node.js, Express, Socket.io (WebSockets), REST APIs
-- **Databases:** MongoDB
-- **Tools:** Git, GitHub, VS Code, Claude Code
-- **Also:** AutoCAD, Autodesk Inventor (CAD / 3D modeling)
+- **Programming:** JavaScript (ES6+), TypeScript, SQL, HTML, CSS
+- **Frontend:** React, Zustand, Tailwind CSS
+- **Backend:** Node.js, Express, REST APIs, WebSockets (Socket.io)
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Tools:** Git, GitHub, VS Code, AI-assisted development (Claude Code)
 
-## Featured project
+## Featured projects
 
-**[NightWire](https://github.com/KostyaBalaban/NightWire)** — real-time messenger (bachelor's thesis, 2026)<br>
+**[NightWire](https://github.com/KostyaBalaban/REPO-NAME)** — real-time messenger (bachelor's thesis, 2026)<br>
 React · Node.js · Express · Socket.io · MongoDB Atlas
 
 - Real-time messaging over WebSockets
 - End-to-end encrypted messages
-- Group chats with role-based permissions and an admin panel
-- Email verification, image uploads and rate limiting
+- Authentication with email verification, group roles and an admin panel
+- Cloud image uploads and API rate limiting
 
-## Currently
-
-- Building **JobTrack**, a job application tracker, to learn TypeScript, PostgreSQL and testing (Vitest, Playwright)
-- Learning Italian
+**[CourseWorkWEB](https://github.com/KostyaBalaban/CourseWorkWEB)** — university course project<br>
+React · Node.js · Express · MongoDB
 
 ## Languages
 
@@ -34,4 +32,4 @@ Ukrainian, Russian (native) · English (advanced) · Italian (learning)
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/) · ikostyantino@gmail.com
+[LinkedIn](https://www.linkedin.com/in/kostiantyn-balaban-bbbba8451/) · ikostyantino@gmail.com
