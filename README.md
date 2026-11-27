@@ -14,7 +14,7 @@ Computer Science graduate (2026) focused on front-end development. I build clean
 - **Tools:** Git, GitHub, VS Code, AI-assisted development
 ## Featured projects
 
-**[NightWire](https://github.com/KostyaBalaban/REPO-NAME)** — real-time messenger (bachelor's thesis, 2026)<br>
+**[NightWire](https://github.com/KostyaBalaban/NightWire)** — real-time messenger (bachelor's thesis, 2026)<br>
 React · Node.js · Express · Socket.io · MongoDB Atlas
 
 - Real-time messaging over WebSockets
@@ -31,4 +31,4 @@ Ukrainian, Russian (native) · English (advanced) · Italian (learning)
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/kostiantyn-balaban-bbbba8451/) · ikostyantino@gmail.com
+[LinkedIn](https://www.linkedin.com/in/kostiantyn-balaban/) · ikostyantino@gmail.com
